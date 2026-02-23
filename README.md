@@ -21,8 +21,8 @@ Atualmente focado em HTML, CSS e JavaScript. Construindo o futuro um commit de c
 
 ### 📊 Meu impacto no mundo do código:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PITDev-dot&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Estatísticas do Pedro" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PITDev-dot&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PITDev-dot&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Pedro" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PITDev-dot&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
