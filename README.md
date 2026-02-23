@@ -1,14 +1,21 @@
 # Olá, eu sou o Pedro Henrique! 👋
 
-### 🚀 Desenvolvedor Full Stack em evolução
-Sou apaixonado por criar interfaces e dar vida a projetos usando código. Atualmente estou focado no ecossistema Web!
+### 🚀 Desenvolvedor em evolução
+Atualmente focado em HTML, CSS e JavaScript. Construindo o futuro um commit de cada vez.
+
+---
+
+### 🐍 Snake Game (Minhas Contribuições)
+![snake github contribution](https://raw.githubusercontent.com/PITDev-dot/PITDev-dot/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🛠️ No meu cinto de utilidades tem:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 ---
 
@@ -20,5 +27,5 @@ Sou apaixonado por criar interfaces e dar vida a projetos usando código. Atualm
 
 ---
 
-### 📫 Como me encontrar:
+### 📫 Vamos nos conectar?
 [![pedrodev2024@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrodev2024@gmail.com)
